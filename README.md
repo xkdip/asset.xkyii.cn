@@ -1,1 +1,1 @@
-# image store NO.1
+# asset for xkyii.cn
